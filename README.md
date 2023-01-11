@@ -6,16 +6,12 @@
 <li>💻 I'm interested in Data Science. </li>
 </ul>
 
-<br>
-
 <h3> 🛠️ Languages and Tools </h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,mysql,git,github" />
   </a>
 </p>
-
-<br>
 
 <h3> 📈 My Github Stats </h3>
 <p align="center">
