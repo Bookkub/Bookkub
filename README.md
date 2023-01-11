@@ -1,4 +1,29 @@
-### Hi there 👋
+<h2 align="center"> Hi, I'm Kittiphot Amnakkittikul </h2>
+
+<ul>
+<li>🖐 I'm Kittiphot Amnakkittikul, You can call me "Book". </li><br>
+<li>🌱 I’m a third year Computer Science student at KMUTT. </li><br>
+<li>💻 I'm interested in Data Science. </li>
+</ul>
+
+<br>
+
+<h3> 🛠️ Languages and Tools </h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,mysql,git,github" />
+  </a>
+</p>
+
+<br>
+
+<h3> 📈 My Github Stats </h3>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bookkub&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bookkub&show_icons=true&locale=en&layout=compact" align = "center"/>
+</p>
+
+
 
 <!--
 **Bookkub/Bookkub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
