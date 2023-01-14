@@ -4,6 +4,7 @@
 <li>🖐 I'm Kittiphot Amnakkittikul, You can call me "Book". </li><br>
 <li>🌱 I’m a third year Computer Science student at KMUTT. </li><br>
 <li>💻 I'm interested in Data Science. </li>
+<li> อะฮิๆๆ </li>
 </ul>
 
 <h3> 🛠️ Languages and Tools </h3>
