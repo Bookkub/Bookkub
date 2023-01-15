@@ -16,8 +16,8 @@
 
 <h3> 📈 My Github Stats </h3>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bookkub&show_icons=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bookkub&show_icons=true&locale=en&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bookkub&theme=react&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bookkub&theme=react&show_icons=true&locale=en&layout=compact" align = "center"/>
 </p>
 
 
