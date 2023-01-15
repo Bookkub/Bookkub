@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm Kittiphot Amnakkittikul </h2>
 
 <ul>
-<li>🖐 I'm Kittiphot Amnakkittikul, You can call me "Book". </li><br>
+<li>🖐 I'm Kittiphot Amnakkittikul, or you can call me "Book". </li><br>
 <li>🌱 I’m a third year Computer Science student at KMUTT. </li><br>
 <li>💕 I'm interested in Data Science. </li><br>
 <li>💻 I enjoy coding and intend to do my best.</li><br>
