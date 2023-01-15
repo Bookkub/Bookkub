@@ -10,7 +10,7 @@
 <h3> 🛠️ Languages and Tools </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,dart,flutter,mysql,git,github" />
   </a>
 </p>
 
