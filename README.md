@@ -10,7 +10,10 @@
 <h3> 🛠️ Languages and Tools </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,javascript,dart,flutter,vue,react,mysql,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,javascript,dart" />
+  </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,vue,react,dotnet,mysql,git,github,gitlab" />
   </a>
 </p>
 
