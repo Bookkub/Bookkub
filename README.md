@@ -2,8 +2,8 @@
 
 <ul>
 <li>🖐 I'm Kittiphot Amnakkittikul, or you can call me "Book". </li><br>
-<li>🌱 I’m a forth year Computer Science student at KMUTT. </li><br>
-<li>💕 I'm interested in Data Science. </li><br>
+<li>🌱 I’m a Software Developer at Playtorium Solutions Company Limited </li><br>
+<li>💕 I'm interested in Software Development. </li><br>
 <li>💻 I enjoy coding and intend to do my best.</li><br>
 </ul> 
 
